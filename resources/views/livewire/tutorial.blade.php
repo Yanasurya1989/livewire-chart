@@ -1,4 +1,4 @@
-<div>
+<div wire:ignore>
   <canvas id="myChart"></canvas>
 </div>
 
